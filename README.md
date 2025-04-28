@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/HLDjHDsJ/14a6dc15-274b-4501-bd11-47842f1e5d77.png" alt="Project Banner" width="100%" />
+  <img src="" alt="Project Banner" width="100%" />
 </p>
 
 <h1 align="center">📝 AI-Powered Resume Builder</h1>
