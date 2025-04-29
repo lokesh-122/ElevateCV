@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt="Project Banner" width="100%" />
+  <img src="https://i.postimg.cc/t4LCZbmF/Chat-GPT-Image-Apr-29-2025-09-59-28-PM.png" alt="Project Banner" width="100%" />
 </p>
 
 <h1 align="center">📝 AI-Powered Resume Builder</h1>
